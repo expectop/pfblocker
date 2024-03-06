@@ -1,0 +1,14 @@
+0.0.0.0 mms.whatsapp.net
+0.0.0.0 pps.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net.
+0.0.0.0 static.whatsapp.net
+0.0.0.0 mmg.whatsapp.net
+0.0.0.0 mmg-fna.whatsapp.net
+0.0.0.0 mmx-fb.cdn.whatsapp.net.
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 web.whatsapp.com
+0.0.0.0 c.whatsapp.net 
+0.0.0.0 media.fhmo2-2.fna.whatsapp.net
+0.0.0.0 www.whatsapp.net
+0.0.0.0 www.whatsapp.com
