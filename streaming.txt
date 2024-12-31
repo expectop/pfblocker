@@ -9,7 +9,9 @@
 0.0.0.0 music.amazon.com
 0.0.0.0 soundcloud.com
 0.0.0.0 www.spotify.com
+0.0.0.0 open.spotify.com
 0.0.0.0 spotify.com
+0.0.0.0 webplayer.byspotify.com
 0.0.0.0 www.netflix.com
 0.0.0.0 netflix.com
 0.0.0.0 www.primevideo.com
