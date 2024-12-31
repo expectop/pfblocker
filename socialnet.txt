@@ -1,11 +1,15 @@
 0.0.0.0 facebook.com
+0.0.0.0 es-la.facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 fbcdn.net
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 2a03:2880:f135:181:face:b00c:0:25de
 0.0.0.0 instagram.com
 0.0.0.0 twitter.com
 0.0.0.0 x.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 mobile.twitter.com
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 fbcdn.net
 0.0.0.0 www.instagram.com
 0.0.0.0 i.instagram.com
 0.0.0.0 pbs.twimg.com
