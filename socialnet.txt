@@ -1,6 +1,7 @@
 0.0.0.0 facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 twitter.com
+0.0.0.0 x.com
 0.0.0.0 abs.twimg.com
 0.0.0.0 mobile.twitter.com
 0.0.0.0 static.xx.fbcdn.net
@@ -13,3 +14,5 @@
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 us.tiktok.com
