@@ -23,4 +23,9 @@
 0.0.0.0 www.disneyplus.com
 0.0.0.0 disneyplus.com
 0.0.0.0 www.hbomax.com
-0.0.0.0 hbomax.com 
+0.0.0.0 hbomax.com
+0.0.0.0 tidal.com
+0.0.0.0 dd.tidal.com
+0.0.0.0 offer.tidal.com
+0.0.0.0 login.tidal.com
+0.0.0.0 audio.tidal.com
