@@ -26,3 +26,4 @@
 0.0.0.0 youtube.desktop.web
 0.0.0.0 youtubekids.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0 i.ytimg.com
