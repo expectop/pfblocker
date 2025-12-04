@@ -3419,5 +3419,4 @@
 0.0.0.0 jimap300-2.mail.vip.gq1.yahoo.com
 0.0.0.0 wwwbbva.mx-a9j3f4.com.mx
 0.0.0.0 lbbva.mx-a9j3f4.com.mx
-0.0.0.0 bbvanetcashnet.com.mx
-0.0.0.0 www.bbvanetcash.mx
+
