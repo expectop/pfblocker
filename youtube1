@@ -2,3 +2,8 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 m.youtube.com
+.0.0.0 redirector.googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 music.youtube.com
+0.0.0.0 youtube.desktop.web
+0.0.0.0 youtubekids.com
