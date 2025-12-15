@@ -31,3 +31,7 @@
 0.0.0.0 offer.tidal.com
 0.0.0.0 login.tidal.com
 0.0.0.0 audio.tidal.com
+0.0.0.0 www.tudn.com/mx
+0.0.0.0 www.dazn.com
+0.0.0.0 www.foxsports.com.mx
+0.0.0.0 www.foxsports.com
