@@ -28,4 +28,4 @@
 0.0.0.0 tikitoks.com
 0.0.0.0 tiktok.ua
 0.0.0.0 tiktokfollowersfree.com
-
+0.0.0.0 vt.tiktok.com
