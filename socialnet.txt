@@ -14,9 +14,3 @@
 0.0.0.0 i.instagram.com
 0.0.0.0 pbs.twimg.com
 0.0.0.0 www.pbs.twimg.com
-0.0.0.0 www.tiktok.com
-0.0.0.0 tiktok.com
-0.0.0.0 tiktokv.com
-0.0.0.0 tiktokcdn.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 us.tiktok.com
